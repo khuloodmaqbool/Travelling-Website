@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "title": "Family Adventure",
+    "description": "Enjoy an exciting family adventure with thrilling activities, guided tours, and fun for all ages.",
+    "imageUrl": "img1.jpg",
+    "price": 499.99,
+    "duration": "5 Days",
+    "location": "Canada",
+    "continent": "North America",
+    "rating": 4.8,
+    "people": 4,
+    "longDescription": "This tour takes you through some of Canada's most stunning landscapes, offering activities for the whole family, including hiking, wildlife watching, and cultural experiences.",
+    "facilitiesDescription": "Accommodation includes family-friendly hotels, meals are included, and transportation is provided.",
+    "activities": [
+      "View the City Walls",
+      "Discover the famous view point “The Lark”",
+      "Sunset on the cruise",
+      "Hiking in the forest"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Luxury Beach Escape",
+    "description": "Relax in a luxurious beach resort, enjoy fine dining, spa treatments, and exclusive water sports.",
+    "imageUrl": "img2.jpg",
+    "price": 1299.99,
+    "duration": "7 Days",
+    "location": "Maldives",
+    "continent": "Asia",
+    "rating": 5.0,
+    "people": 2,
+    "longDescription": "Experience the beauty of the Maldives with crystal-clear waters and white sandy beaches. Indulge in spa treatments and gourmet dining.",
+    "facilitiesDescription": "The resort features private villas, a full-service spa, fine dining restaurants, and various water sports facilities.",
+    "activities": [
+      "Snorkeling in the coral reefs",
+      "Private sunset dinner",
+      "Spa and wellness sessions",
+      "Jet skiing"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Mountain Expedition",
+    "description": "Challenge yourself with an exciting mountain expedition, perfect for adventure enthusiasts.",
+    "imageUrl": "img3.jpg",
+    "price": 899.99,
+    "duration": "6 Days",
+    "location": "Switzerland",
+    "continent": "Europe",
+    "rating": 4.9,
+    "people": 5,
+    "longDescription": "This expedition will take you through the Swiss Alps, where you can experience breathtaking views and thrilling mountain activities.",
+    "facilitiesDescription": "Accommodation in mountain lodges, meals included, and guided tours available.",
+    "activities": [
+      "Mountain climbing",
+      "Skiing and snowboarding",
+      "Scenic train rides",
+      "Local cheese tasting"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "City Sightseeing Tour",
+    "description": "Explore the bustling city life, historical landmarks, and vibrant culture in a guided city tour.",
+    "imageUrl": "img4.jpg",
+    "price": 299.99,
+    "duration": "3 Days",
+    "location": "New York",
+    "continent": "North America",
+    "rating": 4.7,
+    "people": 10,
+    "longDescription": "Experience the vibrant energy of New York City as you visit iconic landmarks, cultural sites, and hidden gems.",
+    "facilitiesDescription": "Includes hotel accommodation, guided tours, and transportation.",
+    "activities": [
+      "Visit the Statue of Liberty",
+      "Explore Central Park",
+      "Broadway show experience",
+      "Museum visits"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Desert Safari",
+    "description": "Experience the thrill of a desert safari with dune bashing, camel rides, and cultural performances.",
+    "imageUrl": "img5.jpg",
+    "price": 399.99,
+    "duration": "2 Days",
+    "location": "Dubai",
+    "continent": "Asia",
+    "rating": 4.6,
+    "people": 8,
+    "longDescription": "Experience the stunning desert landscape of Dubai with thrilling activities, luxurious camping, and traditional cultural performances.",
+    "facilitiesDescription": "Overnight desert camp, meals included, and all transportation provided.",
+    "activities": [
+      "Dune bashing",
+      "Camel riding",
+      "Sandboarding",
+      "Belly dancing show"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Jungle Adventure",
+    "description": "Embark on a thrilling jungle adventure with guided wildlife tours, camping, and hiking.",
+    "imageUrl": "img6.jpg",
+    "price": 649.99,
+    "duration": "4 Days",
+    "location": "Amazon Rainforest",
+    "continent": "South America",
+    "rating": 4.8,
+    "people": 6,
+    "longDescription": "Delve into the heart of the Amazon rainforest and experience its diverse wildlife and stunning scenery through guided tours and activities.",
+    "facilitiesDescription": "Camping accommodations, meals provided, and expert guides available.",
+    "activities": [
+      "Wildlife watching",
+      "Fishing trips",
+      "Night jungle tours",
+      "Canoeing"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Cultural Heritage Tour",
+    "description": "Discover ancient landmarks, historical sites, and experience local traditions on this heritage tour.",
+    "imageUrl": "img7.jpg",
+    "price": 549.99,
+    "duration": "5 Days",
+    "location": "Egypt",
+    "continent": "Africa",
+    "rating": 4.7,
+    "people": 12,
+    "longDescription": "Explore the wonders of ancient Egypt, including the pyramids, temples, and vibrant local cultures.",
+    "facilitiesDescription": "Includes accommodation, meals, and guided tours of major sites.",
+    "activities": [
+      "Visit the Pyramids of Giza",
+      "Nile River cruise",
+      "Local market exploration",
+      "Cultural performances"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Northern Lights Experience",
+    "description": "Witness the magical Northern Lights with guided tours, cozy accommodations, and stunning landscapes.",
+    "imageUrl": "img8.jpg",
+    "price": 1399.99,
+    "duration": "4 Days",
+    "location": "Iceland",
+    "continent": "Europe",
+    "rating": 5.0,
+    "people": 4,
+    "longDescription": "Experience the breathtaking beauty of the Northern Lights in Iceland, complemented by cozy accommodations and guided tours.",
+    "facilitiesDescription": "Includes accommodation, meals, and transportation to prime viewing spots.",
+    "activities": [
+      "Northern Lights viewing",
+      "Geothermal hot springs visit",
+      "Icelandic cultural experiences",
+      "Hiking tours"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Safari Adventure",
+    "description": "Experience a wildlife safari with expert guides, open-air tours, and breathtaking scenery.",
+    "imageUrl": "img9.jpg",
+    "price": 799.99,
+    "duration": "5 Days",
+    "location": "Kenya",
+    "continent": "Africa",
+    "rating": 4.9,
+    "people": 6,
+    "longDescription": "Embark on a thrilling safari adventure in Kenya, where you can see the 'Big Five' and enjoy stunning landscapes.",
+    "facilitiesDescription": "Includes accommodation in lodges, meals, and all transportation.",
+    "activities": [
+      "Wildlife viewing",
+      "Game drives",
+      "Cultural visits",
+      "Photography opportunities"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Cruise Getaway",
+    "description": "Set sail on a luxurious cruise with onboard entertainment, fine dining, and exotic destinations.",
+    "imageUrl": "img10.jpg",
+    "price": 1999.99,
+    "duration": "7 Days",
+    "location": "Caribbean",
+    "continent": "North America",
+    "rating": 5.0,
+    "people": 2,
+    "longDescription": "Enjoy a luxurious cruise experience through the Caribbean with stunning islands, exceptional service, and onboard activities.",
+    "facilitiesDescription": "All meals included, onboard entertainment, and excursions available.",
+    "activities": [
+      "Island hopping",
+      "Snorkeling adventures",
+      "Themed dinner nights",
+      "Spa treatments"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Historical Europe Tour",
+    "description": "Travel through Europe's iconic historical sites, exploring castles, ancient ruins, and cultural landmarks.",
+    "imageUrl": "img11.jpg",
+    "price": 1199.99,
+    "duration": "10 Days",
+    "location": "Various Cities in Europe",
+    "continent": "Europe",
+    "rating": 4.9,
+    "people": 8,
+    "longDescription": "Experience the rich history of Europe with guided tours through famous landmarks, including castles, museums, and historic districts.",
+    "facilitiesDescription": "Includes hotel accommodation, daily meals, and intercity transportation.",
+    "activities": [
+      "Visit famous castles",
+      "Explore ancient ruins",
+      "Guided museum tours",
+      "Local cuisine tasting"
+    ]
+  },  
+  {
+    "id": 12,
+    "title": "Tropical Island Adventure",
+    "description": "Discover the beauty of tropical islands with stunning beaches, water sports, and vibrant marine life.",
+    "imageUrl": "img12.jpg",
+    "price": 899.99,
+    "duration": "6 Days",
+    "location": "Bora Bora",
+    "continent": "Oceania",
+    "rating": 4.9,
+    "people": 4,
+    "longDescription": "Enjoy a tropical escape in Bora Bora with pristine beaches, crystal-clear waters, and various water activities.",
+    "facilitiesDescription": "Stay in beachfront resorts with meals and water activities included.",
+    "activities": [
+      "Snorkeling with sharks",
+      "Jet ski adventures",
+      "Beach volleyball",
+      "Sunset beach bonfire"
+    ]
+  }
+]
