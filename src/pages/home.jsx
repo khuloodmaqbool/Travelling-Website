@@ -6,8 +6,8 @@ import { Section } from "../components/section";
 import { FaqSection } from "../components/faqSection";
 import { NavLink } from "react-router-dom";
 import { Activities } from "../components/Activities";
-import HeroSection from "../components/herosection";
 import LottieAnimation from "../components/LottieFliesAnimation";
+import HeroSection from "../components/herosection_component";
 import { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
@@ -38,7 +38,7 @@ const Home = () => {
 
   return (
     <>
-      <HeroSection />
+      <HeroSection/>
       <Section />
       <div className="relative w-11/12 mx-auto">
         <div className="flex justify-center w-44 absolute top-[-120px] left-[-20px] ">
