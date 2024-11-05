@@ -42,22 +42,8 @@ function App() {
         },
         {
           path: "/singleTour/:id",
-
-          // path: "/singleTour",
           element: <SingleTour />,
         },
-        // {
-        //   path: "/cart",
-        //   element: <Cart />,
-        // },
-        // {
-        //   path: "/newarrival",
-        //   element: <NewArrival />,
-        // },
-        // {
-        //   path: "/topselling",
-        //   element: <TopSelling />,
-        // },
         {
           path: "*",
           element: <NotFound />,
